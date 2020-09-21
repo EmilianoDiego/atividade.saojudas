@@ -24,8 +24,9 @@
 .cursos{
     background-color: darkgrey;
     text-align: center;
-    border-top-style: solid;
-    border-bottom: 3px solid black; 
+    
+    border-style: 3px solid black; 
+    border-radius: 8px;
     padding: 12px;
     font-size: 18px; 
 
