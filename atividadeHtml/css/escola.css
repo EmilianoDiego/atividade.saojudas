@@ -1,38 +1,44 @@
-
-#titulo{
-    text-align: center;  
-    border-top-style: 2px solid black;
-    border-bottom: 2px solid black;  
-    color: darkgrey(87, 77, 97);  
-    background-color: rgb(207, 205, 204);
-    padding:12px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+h1{
+    color: black;
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif;  
 }
-#descricao{
-    text-align: center;
-    font-size: 20px;
+h6{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container1{
+    background-color:black;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+#linha1{
+    background-color: white;
+}
+#blockquote1{
+    background-color:rgb(235, 231, 231);
+    border-radius: 10px;
+}
+#blockquote2{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(235, 231, 231);
+    border-radius: 10px;
+}
+#ul1{
 
+    font-weight: bold;
 }
 #rodape{
-    background-color: black;
-    text-align: center
-}
-#textorodape{
+    background-color: black ;
+    border-radius: 10px;
     color: aliceblue;
 }
-.cursos{
-    background-color: darkgrey;
-    text-align: center;
-    
-    border-style: 3px solid black; 
+#descricao1{
+    text-indent: 8px;
     border-radius: 8px;
-    padding: 12px;
-    font-size: 18px; 
-
 }
-#centralImagem{
-    display: block; 
-    margin-left: auto;
-    margin-right: auto;
+#divArtigo{
+    border-radius: 10px;
+    border-style: solid;
 }
